@@ -1,5 +1,6 @@
-# docx-parsing-python
-Parsing a docx file with python
+# Parsing docx using python 2.7
+
+Parsing a docx file with python 2.7
 
 # Explanation
 
